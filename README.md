@@ -1,3 +1,16 @@
-# Alien-Invasion
-A little game called Alien invasion.
-You can run the alien_invasion.py to start this game.
+Project Title 项目名称
+外星飞船入侵
+这是一个非常简单的小游戏
+
+Getting Started 使用指南
+项目使用条件：
+安装python3环境，使用pycharm打开并运行代码
+
+游戏内容介绍：
+用户在启动页面点击PLAY即可开始游戏
+用户操控的人要躲避外星飞船掉落下来的子弹，同时可以想飞船开火
+飞船会一层一层下降，直逼用户操控的小人
+只有在用户操纵的小人死去之前歼灭所有外星飞船，用户才会进入下一关。
+游戏分级别，随着级别的升高，难度会增大
+游戏中会记录用户的分数
+知道用户操纵的小人死去，游戏结束，用户可选择重新开始游戏。
